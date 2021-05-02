@@ -10,3 +10,6 @@ Keybinds:
 AD - Move left-right
 
 Space - Change gravity
+
+
+Itch.io Link: https://hiimbox.itch.io/fatalerror-tcm
