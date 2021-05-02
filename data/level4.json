@@ -1,0 +1,155 @@
+[
+  {
+    "type" : "player",
+    "x" : 30,
+    "y": 50,
+    "grav" : -1
+  },
+  {
+    "type" : "wall",
+    "x" : 23,
+    "y": 4,
+    "sizex": 50,
+    "sizey": 14
+  },
+  {
+    "type" : "kill",
+    "x" : 221,
+    "y": 2,
+    "sizex": 345,
+    "sizey": 10
+  },
+  {
+    "type" : "wall",
+    "x" : 370,
+    "y": 4,
+    "sizex": 50,
+    "sizey": 14
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 110,
+    "y": 80,
+    "sizex": 10,
+    "sizey": 150
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 18,
+    "y": 80,
+    "sizex": 40,
+    "sizey": 10
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 45,
+    "y": 80,
+    "sizex": 40,
+    "sizey": 14
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 90,
+    "y": 150,
+    "sizex": 50,
+    "sizey": 10
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 35,
+    "y": 258,
+    "sizex": 62,
+    "sizey": 14
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 2,
+    "y": 170,
+    "sizex": 10,
+    "sizey": 190
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 230,
+    "y": 260,
+    "sizex": 328,
+    "sizey": 10
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 220,
+    "y": 258,
+    "sizex": 62,
+    "sizey": 14
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 225,
+    "y": 90,
+    "sizex": 10,
+    "sizey": 170
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 148,
+    "y": 150,
+    "sizex": 65,
+    "sizey": 10
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 389,
+    "y": 170,
+    "sizex": 10,
+    "sizey": 190
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 290,
+    "y": 150,
+    "sizex": 45,
+    "sizey": 10
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 270,
+    "y": 70,
+    "sizex": 90,
+    "sizey": 10
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 310,
+    "y": 40,
+    "sizex": 10,
+    "sizey": 70
+  }
+  ,
+  {
+    "type" : "key",
+    "x" : 145,
+    "y": 130
+  }
+  ,
+  {
+    "type" : "door",
+    "x" : 390,
+    "y": 42,
+    "sizex": 10,
+    "sizey": 80
+  }
+]

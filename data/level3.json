@@ -1,0 +1,97 @@
+[
+  {
+    "type" : "player",
+    "x" : 30,
+    "y": 50,
+    "grav" : -1
+  },
+  {
+    "type" : "wall",
+    "x" : 23,
+    "y": 4,
+    "sizex": 50,
+    "sizey": 14
+  },
+  {
+    "type" : "kill",
+    "x" : 221,
+    "y": 2,
+    "sizex": 345,
+    "sizey": 10
+  },
+  {
+    "type" : "wall",
+    "x" : 370,
+    "y": 258,
+    "sizex": 50,
+    "sizey": 14
+  },
+  {
+    "type" : "wall",
+    "x" : 270,
+    "y": 35,
+    "sizex": 50,
+    "sizey": 10
+  },
+  {
+    "type" : "wall",
+    "x" : 120,
+    "y": 220,
+    "sizex": 50,
+    "sizey": 10
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 2,
+    "y": 160,
+    "sizex": 10,
+    "sizey": 210
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 175,
+    "y": 260,
+    "sizex": 340,
+    "sizey": 10
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 388,
+    "y": 110,
+    "sizex": 10,
+    "sizey": 210
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 120,
+    "y": 90,
+    "sizex": 10,
+    "sizey": 180
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 270,
+    "y": 170,
+    "sizex": 10,
+    "sizey": 180
+  }
+  ,
+  {
+    "type" : "key",
+    "x" : 160,
+    "y": 130
+  }
+  ,
+  {
+    "type" : "door",
+    "x" : 390,
+    "y": 236,
+    "sizex": 10,
+    "sizey": 80
+  }
+]

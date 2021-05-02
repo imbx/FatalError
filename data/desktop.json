@@ -1,0 +1,44 @@
+[
+  {
+    "name" : "My Computer",
+    "path" : "Textures/comp.png",
+    "x" : 36,
+    "y": 26
+  },
+  {
+    "name" : "Definetly not me",
+    "path" : "Textures/bdi.png",
+    "x" : 96,
+    "y": 26
+  },
+  {
+    "name" : "Recycle Bin",
+    "path" : "Textures/paper_bin.png",
+    "x" : 96,
+    "y": 96
+  },
+  {
+    "name" : "Nuclear bomb plans",
+    "path" : "Textures/bdi.png",
+    "x" : 36,
+    "y": 96
+  },
+  {
+    "name" : "Work i'm not gonna do",
+    "path" : "Textures/bdi.png",
+    "x" : 156,
+    "y": 26
+  },
+  {
+    "name" : "How to summon satan",
+    "path" : "Textures/bdi.png",
+    "x" : 216,
+    "y": 26
+  },
+  {
+    "name" : "Forbidden folder",
+    "path" : "Textures/bdi.png",
+    "x" : 276,
+    "y": 26
+  }
+]

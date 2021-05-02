@@ -1,0 +1,78 @@
+[
+  {
+    "type" : "player",
+    "x" : 20,
+    "y": 200,
+    "grav" : 1
+  },
+  {
+    "type" : "wall",
+    "x" : 35,
+    "y": 240,
+    "sizex" : 60,
+    "sizey" : 10
+  },
+  {
+    "type" : "wall",
+    "x" : 160,
+    "y": 80,
+    "sizex" : 60,
+    "sizey" : 10
+  },
+  {
+    "type" : "wall",
+    "x" : 280,
+    "y": 180,
+    "sizex" : 60,
+    "sizey" : 10
+  },
+  {
+    "type" : "kill",
+    "x" : 196,
+    "y":0,
+    "sizex" : 396,
+    "sizey" : 5
+  },
+  {
+    "type" : "kill",
+    "x" : 196,
+    "y":265,
+    "sizex" : 396,
+    "sizey" : 5
+  },
+  {
+    "type" : "kill",
+    "x" : 2,
+    "y":135,
+    "sizex" : 5,
+    "sizey" : 270
+  },
+  {
+    "type" : "kill",
+    "x" : 393,
+    "y":25,
+    "sizex" : 5,
+    "sizey" : 50
+  },
+  {
+    "type" : "kill",
+    "x" : 393,
+    "y":200,
+    "sizex" : 5,
+    "sizey" : 130
+  }
+  ,
+  {
+    "type" : "key",
+    "x" : 160,
+    "y":100
+  }
+  ,
+  {
+    "type" : "door",
+    "x" : 390,
+    "y":92,
+    "sizex" : 10,
+    "sizey" : 80
+  }
+]

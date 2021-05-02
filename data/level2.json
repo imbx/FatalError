@@ -1,0 +1,194 @@
+[
+  {
+    "type" : "player",
+    "x" : 30,
+    "y": 230,
+    "grav" : 1
+  },
+  {
+    "type" : "wall",
+    "x" : 30,
+    "y": 258,
+    "sizex" : 63,
+    "sizey" : 14
+  },
+  {
+    "type" : "kill",
+    "x" : 196,
+    "y": 2,
+    "sizex" : 396,
+    "sizey" : 10
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 390,
+    "y": 180,
+    "sizex" : 10,
+    "sizey" : 170
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 2,
+    "y": 85,
+    "sizex" : 10,
+    "sizey" : 170
+  },
+  {
+    "type" : "kill",
+    "x" : 38,
+    "y": 170,
+    "sizex" : 80,
+    "sizey" : 10
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 114,
+    "y": 170,
+    "sizex" : 80,
+    "sizey" : 14
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 90,
+    "y": 260,
+    "sizex" : 80,
+    "sizey" : 10
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 170,
+    "y": 258,
+    "sizex" : 80,
+    "sizey" : 14
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 210,
+    "y": 216,
+    "sizex" : 10,
+    "sizey" : 101
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 245,
+    "y": 170,
+    "sizex" : 60,
+    "sizey" : 10
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 360,
+    "y": 170,
+    "sizex" : 50,
+    "sizey" : 10
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 305,
+    "y": 258,
+    "sizex" : 60,
+    "sizey" : 14
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 365,
+    "y": 260,
+    "sizex" : 60,
+    "sizey" : 10
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 245,
+    "y": 260,
+    "sizex" : 60,
+    "sizey" : 10
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 305,
+    "y": 100,
+    "sizex" : 60,
+    "sizey" : 14
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 365,
+    "y": 100,
+    "sizex" : 60,
+    "sizey" : 10
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 245,
+    "y": 100,
+    "sizex" : 60,
+    "sizey" : 10
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 195,
+    "y": 100,
+    "sizex" : 60,
+    "sizey" : 14
+  }
+  ,
+  {
+    "type" : "kill",
+    "x" : 135,
+    "y": 100,
+    "sizex" : 60,
+    "sizey" : 10
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 80,
+    "y": 4,
+    "sizex" : 130,
+    "sizey" : 14
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 250,
+    "y": 4,
+    "sizex" : 50,
+    "sizey" : 14
+  }
+  ,
+  {
+    "type" : "wall",
+    "x" : 370,
+    "y": 4,
+    "sizex" : 50,
+    "sizey" : 14
+  }
+  ,
+  {
+    "type" : "key",
+    "x" : 360,
+    "y": 190
+  },
+  {
+    "type" : "door",
+    "x" : 390,
+    "y": 52,
+    "sizex" : 10,
+    "sizey" : 80
+  }
+]
